@@ -1,0 +1,19 @@
+{
+    "name": "music-bot",
+    "main": "main.js",
+    "author": "naiteparak",
+    "version": "6.0.0",
+    "repository": "https://github.com/AshotKarapetyann/discord-bot",
+    "description": "Discord music bot.",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "discord-player": "^5.3.1",
+        "discord.js": "^14.1.2",
+        "dotenv": "^16.0.3",
+        "ffmpeg-static": "^5.0.2",
+        "ms": "^3.0.0-canary.1",
+        "opusscript": "^0.0.8"
+    }
+}
